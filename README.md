@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**yosraf/yosraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Hi, I'm yosra FATNASSI! <img src="https://media.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/2UoHgQvCEZPbYcXfGQ/giphy.gif" width="230">
+<p><em>Software Engineer at NG.Technologies</br>
+</em></p>
 
-Here are some ideas to get you started:
+[![Linkedin: yosrafatnassi](https://img.shields.io/badge/-yosrafatnassi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fatnassiyosra/)](https://www.linkedin.com/in/fatnassiyosra/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A little more about me...  
+
+```javascript
+const yosra = {
+  code: [ Typescript, HTML, CSS,Java, Spring-Boot, Angular],
+  OS: [ Linux],
+  DataBase :[Posgres, Mysql, MongoDB],
+  architecture: ["microservices", "microfrontends"],
+}
+```
+
