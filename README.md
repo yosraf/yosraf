@@ -6,7 +6,7 @@
 </em></p>
 
 [![Linkedin: yosrafatnassi](https://img.shields.io/badge/-yosrafatnassi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fatnassiyosra/)](https://www.linkedin.com/in/fatnassiyosra/)
-![Email: yosrafatnassi6@gmail.com](https://img.shields.io/badge/-yosrafatnassi-red?style=flat-square&logo=gmail&logoColor=white)
+![Email: yosrafatnassi6@gmail.com](https://img.shields.io/badge/-yosrafatnassi6@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)
 ### A little more about me...  
 
 ```javascript
